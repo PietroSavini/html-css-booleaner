@@ -110,3 +110,36 @@ td{
 .color{
     background-color: rgba(50, 140, 195, 0.434);
 }
+
+
+/* footer section*/
+
+.also-like{
+    font-weight: bold;
+   
+}
+
+.other-articles{
+    margin-top: 2%;
+}
+
+.alsolike{
+    background-image: url(/img/monitor.jpg);
+    min-height: 150px; 
+    max-width: 300px;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 2%;
+}
+.alsolike1{
+    background-image: url(/img/graph.jpg);
+    min-height: 150px; 
+    max-width: 300px;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom:2%;
+   
+}
+
