@@ -1,0 +1,21 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* COMMON*/ 
+
+
+
+/*header section*/
+
+.container1{
+    min-height: 80px;
+    border: 2px solid black;
+}
+
+.head img{
+    max-width: 150px;
+}
