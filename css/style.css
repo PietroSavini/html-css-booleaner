@@ -12,10 +12,16 @@
 /*header section*/
 
 .container1{
+    padding-left:10%;
+    padding-top: 32px;
     min-height: 80px;
     border: 2px solid black;
+    background-image: url(/img/pattern.png);
+    background-size: 30%;
+    background-color: #4EA0FF;
 }
 
-.head img{
-    max-width: 150px;
+.header-logo img{
+    max-width: 155px;
 }
+
