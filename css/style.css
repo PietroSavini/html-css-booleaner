@@ -28,7 +28,7 @@ ul li{
     margin: 1% ;
 }
 
-.written-by a{
+a{
     text-decoration: none;
 }
    
@@ -68,6 +68,7 @@ ul li{
 .wallpaper {
     margin: 1% 0;
     max-height: 300px;
+    
 }
 .wallpaper img{
     max-height: 300px;
