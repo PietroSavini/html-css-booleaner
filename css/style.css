@@ -6,6 +6,9 @@
 }
 
 /* COMMON*/ 
+.paging{
+    padding: 1% 10%;
+}
 
 
 
@@ -13,12 +16,14 @@
 
 .container1{
     padding-left:10%;
-    padding-top: 32px;
+    padding-right: 10%;
+    padding-top: 30px;
     min-height: 80px;
     border: 2px solid black;
     background-image: url(/img/pattern.png);
-    background-size: 30%;
+    background-size: 300px ;
     background-color: #4EA0FF;
+    background-repeat: repeat-x;
 }
 
 .header-logo img{
