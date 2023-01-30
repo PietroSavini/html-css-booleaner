@@ -27,6 +27,10 @@
 ul li{
     margin: 1% ;
 }
+
+.written-by a{
+    text-decoration: none;
+}
    
 
 
